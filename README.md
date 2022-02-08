@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá! Eu sou o Witame!! 
 
-<!--
-**WitameMenezes/WitameMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem eu sou?
 
-Here are some ideas to get you started:
+- Cientista de Dados Jr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidade🖥️
+
+### Hard Skills 👨‍💻
+
+- 📊 Microsoft Power BI
+- 📈 Microsoft Excel
+- 🐍 Python
+- 🗄 SQL
+- 🧮 Matemática e Estatística
+
+### Soft Skills
+
+- Princípios éticos
+- Confiança
+- Organização e gestão do tempo
+- Comunicação
+
+
+## Encontre-me no:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witame-menezes/)
