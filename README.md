@@ -2,17 +2,16 @@
 
 ## Quem eu sou?
 
-- Cientista de Dados Jr
+- Dev Front-End
 
-## Habilidade🖥️
+## Habilidades🖥️
 
 ### Hard Skills 👨‍💻
 
-- 📊 Microsoft Power BI
-- 📈 Microsoft Excel
-- 🐍 Python
-- 🗄 SQL
-- 🧮 Matemática e Estatística
+- HTML 5
+- CSS 3
+- JAvaScript
+- React.js
 
 ### Soft Skills
 
