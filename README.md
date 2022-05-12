@@ -2,7 +2,7 @@
 
 ## Quem eu sou?
 
-- Dev Front-End
+- Dev Mobile
 
 ## Habilidades🖥️
 
@@ -10,8 +10,8 @@
 
 - HTML 5
 - CSS 3
-- JAvaScript
-- React.js
+- Flutter
+- Dart
 
 ### Soft Skills
 
