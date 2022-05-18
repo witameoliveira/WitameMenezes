@@ -2,7 +2,7 @@
 
 ## Quem eu sou?
 
-- Dev Mobile
+- Dev Backend
 
 ## Habilidades🖥️
 
@@ -10,8 +10,8 @@
 
 - HTML 5
 - CSS 3
-- Flutter
-- Dart
+- .NET
+- C#
 
 ### Soft Skills
 
