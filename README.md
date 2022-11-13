@@ -2,16 +2,16 @@
 
 ## Quem eu sou?
 
-- Dev Backend
+- Analista e Cientista de Dados
 
 ## Habilidades🖥️
 
 ### Hard Skills 👨‍💻
 
-- HTML 5
-- CSS 3
-- .NET
-- C#
+- Excel (Nível Intermediário)
+- Power BI (Nível Básico)
+- Python (Nível Básico)
+- SQL (Nível Básico)
 
 ### Soft Skills
 
