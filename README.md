@@ -2,16 +2,16 @@
 
 ## Quem eu sou?
 
-- Analista e Cientista de Dados
+- Front-End Developer
 
 ## Habilidades🖥️
 
-### Hard Skills 👨‍💻
+### Hard Skills
 
-- Excel (Nível Intermediário)
-- Power BI (Nível Básico)
-- Python (Nível Básico)
-- SQL (Nível Básico)
+- HTML5
+- CSS3
+- JavaScript
+- Git
 
 ### Soft Skills
 
@@ -23,4 +23,4 @@
 
 ## Encontre-me no:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witame-menezes/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witameoliveira/)
