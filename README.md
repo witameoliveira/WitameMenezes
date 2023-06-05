@@ -2,15 +2,17 @@
 
 ## Quem eu sou?
 
-- Front-End Developer
+- BackEnd Developer
 
 ## Habilidades🖥️
 
 ### Hard Skills
 
+- C#
+- .Net Framework
+- SQL Server
 - HTML5
 - CSS3
-- JavaScript
 - Git
 
 ### Soft Skills
