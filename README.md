@@ -2,18 +2,16 @@
 
 ## Quem eu sou?
 
-- BackEnd Developer
+- Data Scientist | Data Analyst
 
 ## Habilidades🖥️
 
 ### Hard Skills
 
-- C#
-- .Net Framework
-- SQL Server
-- HTML5
-- CSS3
-- Git
+- Excel
+- SQL
+- Power BI
+- Python
 
 ### Soft Skills
 
