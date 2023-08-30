@@ -2,16 +2,13 @@
 
 ## Quem eu sou?
 
-- Data Scientist | Data Analyst
+- Backend Developer
 
 ## Habilidades🖥️
 
 ### Hard Skills
 
-- Excel
-- SQL
-- Power BI
-- Python
+- Java
 
 ### Soft Skills
 
